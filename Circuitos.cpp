@@ -204,7 +204,6 @@ void Mostrar_Circuito(bool cod1, bool cod2, bool cod3, bool cod4)
 
 	cout << endl << endl;
 }
-/*
-Código por https://github.com/marcelomesmo/POOAulas
+
 Desenhos ASCII retirados de http://ascii.co.uk/art/pokemon
 */
